@@ -1,0 +1,5 @@
+pymongo
+python
+boto3
+pandas
+elasticsearch
